@@ -1,8 +1,9 @@
-OVERVIEW
+OVERVIEW:
+
  DV ScreenSense analyzes Indian kids’ screen time patterns to uncover trends by age, gender, location type (urban/rural), device type, day‑of‑week, and activity category.
  The goal is to present clear, actionable insights for parents, educators, and policymakers through data analysis and visualization.
 
-OBJECTIVES
+OBJECTIVES:
 - Preprocess and clean the dataset for reliable analysis
 - Explore weekday vs weekend usage patterns
 - Identify device and activity preferences across demographics
@@ -10,18 +11,18 @@ OBJECTIVES
 - Build dashboards and reports for non‑technical stakeholders
 - Deliver a final presentation with insights and visuals
 
-DATASET
+DATASET:
 - Source: Kaggle – Indian Kids Screentime 2025
 - Format: CSV
 - Scope: Screen time data across demographics, devices, and activities
 
-TECH STACK
+TECH STACK:
 - Data Handling: Python, Pandas, NumPy
 - Visualization: Matplotlib, Seaborn, Plotly
 - Dashboarding: Tableau, Power BI
 - Documentation: Jupyter Notebook, GitHub, PDF
 
-PROJECT MODULES
+PROJECT MODULES:
 - Data Acquisition & Understanding
 - Data Cleaning & Feature Engineering
 - Univariate & Bivariate Analysis
@@ -31,7 +32,7 @@ PROJECT MODULES
 - Final Dashboard or Report
 - Documentation & Presentation
 
-WEEK-WISE IMPLEMENTATION
+WEEK-WISE IMPLEMENTATION:
 - Week 1: Project initialization, dataset setup, schema exploration
 - Week 2: Preprocessing, feature engineering, missing value handling
 - Week 3: Univariate & bivariate visual analysis
@@ -41,7 +42,7 @@ WEEK-WISE IMPLEMENTATION
 - Week 7: Dashboard preparation (Tableau/Power BI)
 - Week 8: Final report, presentation, and repository handover
 
-EVALUATION CRITERIA
+EVALUATION CRITERIA:
 - Milestone Completion: Timely delivery of datasets, visuals, and reports
 - Visual Analysis Quality: Clear, relevant, and interpretable plots
 - Insight Discovery: Cohort and usage insights backed by visuals
