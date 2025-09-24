@@ -55,7 +55,7 @@ CONTRIBUTION GUIDELINES
 - Submit a Pull Request for mentor review before merging.
 - Do not push directly to main
 
-
-👥 Maintainer
+ 
+Maintainer
 Mentor: Joshika Anusuri
 Email: springboardmentor1978a@gmail.com
