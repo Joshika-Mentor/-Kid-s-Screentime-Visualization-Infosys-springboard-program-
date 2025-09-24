@@ -47,6 +47,14 @@ EVALUATION CRITERIA:
 - Visual Analysis Quality: Clear, relevant, and interpretable plots
 - Insight Discovery: Cohort and usage insights backed by visuals
 - Presentation & Reporting: Structured storyline, polished dashboard, and professional documentation
+  
+CONTRIBUTION GUIDELINES
+- Each intern must work in their own branch (not main).
+- Branch naming format: studentname-task (e.g., rahul-preprocessing).
+- Push code regularly with meaningful commit messages.
+- Submit a Pull Request for mentor review before merging.
+- Do not push directly to main
+
 
 👥 Maintainer
 Mentor: Joshika Anusuri
