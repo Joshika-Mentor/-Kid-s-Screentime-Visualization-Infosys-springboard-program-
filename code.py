@@ -8,6 +8,3 @@ df.describe() # getting the general describetion of the table
 
 df1=df[["Primary_Device", "Age"]]
 df1 #checking two columns in the table 
-
-df1=df[["Primary_Device", "Age"]][1:10:1]
-df1# slicing the data
